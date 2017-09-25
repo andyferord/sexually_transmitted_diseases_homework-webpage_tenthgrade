@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+          <head>
+    <meta lang="es">
+    <title>Contagio | MediOnline</title> 
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Página dedicada a la información médica para cualquier usuario interesado">
+    <meta name="keywords" content="ETS, online, web, prevencion, transmision">
+    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+   <link rel="shortcut icon" type="image/x-icon" href="recursos/12.ico">
+   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+   <link rel="stylesheet" type="text/css" href="iconos/icomoon.css">
+   <link href="fuentes/Montserrat.css" rel="stylesheet">
+   <link href="fuentes/lobster.css" rel="stylesheet"> 
+
+       </head>
+  
+  <body>
+     <header id="main-header">
+    
+    <a id="logo-header" href="#">
+      <span class="site-name">Medi-Online</span>
+      <span class="site-desc">Información de Salud en la red</span>
+    </a> <!-- / #logo-header -->
+ 
+    <nav>
+      <ul>
+        <li><a href="index.html"><span class="icon-home"></span> Inicio</a></li>
+        <li><a href="#"><span class="icon-wondering2"></span> Contagio</a></li>
+        <li><a href="#"><span class="icon-film"></span> Videos</a></li>
+        <li><a href="#"><span class="icon-aid-kit"></span> Atención</a></li>
+      </ul>
+    </nav><!-- / nav -->
+ 
+  </header><!-- / #main-header -->
+      <section class="main">
+      <section class="articles">
+          
+           </section>
+      <footer id="main-footer">
+        <p>Medi-Online | Andrés Fernando Ordoñez Alvarez ©</p>
+        <p id="footer-menor">Página dedicada a la información médica para usuarios interesados</p>
+       </footer>
+       </body>
+  </html> 
